@@ -2,3 +2,4 @@
 Jonathan Manzolido
 Patricia Díaz
 Maday Del Rio
+Lucas Custodio
